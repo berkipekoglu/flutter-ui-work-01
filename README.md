@@ -1,6 +1,8 @@
 # blog_post_ui
 
-A new Flutter project.
+A blog post UI work.
+
+<img src="https://github.com/berkipekoglu/flutter-ui-work-01/blob/master/blogPostUI.jpg" alt="Berk İpekoğlu" width="540" height="1162" />
 
 ## Getting Started
 
